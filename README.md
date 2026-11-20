@@ -102,7 +102,6 @@ The analysis worksheet includes:
 - Female eligibility analysis
 - Gender-wise eligibility comparison
 - Eligibility percentages
-- Age distribution
 - Data visualization using charts
 
 ---
